@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am currently studing in engneering<br>i am currently learning c and python<br>i am intreseted in learning AI and ML<br> 
+👋 Hi, I’m a passionate B.Tech Engineering student with a strong interest in programming, problem-solving, and modern technology. I have built a solid foundation in **C** and **C++**, which helped me improve my logical thinking and coding skills. 🚀
+
+Currently, I am focusing on **Python** and **Web Development** to expand my knowledge in software development and create real-world projects. 💻 I enjoy learning new technologies, exploring innovative ideas, and continuously improving my technical skills.
+
+I am enthusiastic about developing efficient solutions, collaborating on exciting projects, and growing as a future software engineer. 🌱 My goal is to become a skilled developer who can contribute to impactful and creative tech solutions. ✨
+
+Always learning, always building, and always ready for new challenges! 🔥
+
 
 
 ## 🌐 Socials:
